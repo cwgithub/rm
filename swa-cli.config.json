@@ -6,6 +6,7 @@
       "run": "npm start",
       "apiLocation": "",
       "outputLocation": "dist/rm",
+      "app_build_command": "npm run build rm",
       "devserverTimeout": 10000,
       "open": "true"
     }

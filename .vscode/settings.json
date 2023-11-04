@@ -1,3 +1,7 @@
 {
-    "staticWebApps.outputSubpath": "dist/rm"
+    "staticWebApps.outputSubpath": "dist/rm",
+    "cSpell.words": [
+        "Vewflow",
+        "vexflow"
+    ]
 }
